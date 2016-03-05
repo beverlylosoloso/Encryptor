@@ -1,0 +1,9 @@
+C:\Users\localhost\Desktop\Text Encryption\Beverly_Encryptor\Beverly_Encryptor\bin\Debug\Beverly_Encryptor.exe.config
+C:\Users\localhost\Desktop\Text Encryption\Beverly_Encryptor\Beverly_Encryptor\bin\Debug\Beverly_Encryptor.exe
+C:\Users\localhost\Desktop\Text Encryption\Beverly_Encryptor\Beverly_Encryptor\bin\Debug\Beverly_Encryptor.pdb
+C:\Users\localhost\Desktop\Text Encryption\Beverly_Encryptor\Beverly_Encryptor\obj\Debug\Beverly_Encryptor.csprojResolveAssemblyReference.cache
+C:\Users\localhost\Desktop\Text Encryption\Beverly_Encryptor\Beverly_Encryptor\obj\Debug\Beverly_Encryptor.Form1.resources
+C:\Users\localhost\Desktop\Text Encryption\Beverly_Encryptor\Beverly_Encryptor\obj\Debug\Beverly_Encryptor.Properties.Resources.resources
+C:\Users\localhost\Desktop\Text Encryption\Beverly_Encryptor\Beverly_Encryptor\obj\Debug\Beverly_Encryptor.csproj.GenerateResource.Cache
+C:\Users\localhost\Desktop\Text Encryption\Beverly_Encryptor\Beverly_Encryptor\obj\Debug\Beverly_Encryptor.exe
+C:\Users\localhost\Desktop\Text Encryption\Beverly_Encryptor\Beverly_Encryptor\obj\Debug\Beverly_Encryptor.pdb
